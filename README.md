@@ -13,8 +13,7 @@ Actively seeking **frontend / software development internships** where I can con
 [![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16?logo=leetcode\&logoColor=white)](https://leetcode.com/u/NJNTE0egUh/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prasadsanjiv)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://www.instagram.com/code.sanjiv/)
-[![Quora](https://img.shields.io/badge/Quora-B92B27?logo=quora\&logoColor=white)](YOUR_QUORA_LINK)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord\&logoColor=white)](YOUR_DISCORD_LINK)
+[![Quora](https://www.quora.com/profile/Sanjiv-Prasad-45)
 
 # 💻 Tech Stack
 
