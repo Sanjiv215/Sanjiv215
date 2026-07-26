@@ -10,40 +10,39 @@ Previously, I worked as a **fitness trainer**, where I developed discipline, con
 
 Currently, I'm focused on:
 
-* 🚀 Full-Stack Web Development
-* 🐍 Python & FastAPI
-* ⚛️ React & Modern JavaScript
-* 🗄️ MongoDB & PostgreSQL
-* 🐳 Docker
-* 🔗 REST APIs
-* 🤖 AI-powered applications
-* 📚 Data Structures & Algorithms
+* Full-Stack Web Development
+* Python & FastAPI
+* React & Modern JavaScript
+* MongoDB & PostgreSQL
+* Docker
+* REST APIs
+* AI-powered applications
+* Data Structures & Algorithms
 
 I'm actively building projects instead of just following tutorials because I believe the best way to learn is by solving real problems.
 
----
 
-## 🌟 Featured Projects
+##  Featured Projects
 
-### 🤖 Advait
+### Advait
 
 An AI-powered Yoga Assistant capable of intelligent conversations and AI image generation.
 
-### 🛍️ TheWoodWise
+### TheWoodWise
 
 A full-stack furniture e-commerce platform with authentication, product management, sessions, and modern backend architecture.
 
-### 📝 Intelli Notes
+### IntelliNotes
 
 A responsive platform for organising and accessing academic study resources and semester-wise notes.
 
-### 💼 Client Portfolio Websites
+### Client Portfolio Websites
 
 Designed and developed multiple responsive portfolio websites for clients with modern UI and mobile-first design.
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
 * Master Backend Development with Python & FastAPI
 * Strengthen Data Structures & Algorithms
@@ -54,16 +53,16 @@ Designed and developed multiple responsive portfolio websites for clients with m
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/prasadsanjiv
-* 📸 Instagram: https://www.instagram.com/code.sanjiv/
-* 💻 GitHub: https://github.com/Sanjiv215
-* 🧩 LeetCode: https://leetcode.com/u/NJNTE0egUh/
+* LinkedIn: https://www.linkedin.com/in/prasadsanjiv
+* Instagram: https://www.instagram.com/code.sanjiv/
+* GitHub: https://github.com/Sanjiv215
+* LeetCode: https://leetcode.com/u/NJNTE0egUh/
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -89,6 +88,3 @@ Git • GitHub • Docker • VS Code • Postman
 
 AI Applications • LLMs • Backend Architecture • Deployment
 
----
-
-> *"Consistency beats intensity. Build. Learn. Improve. Repeat."* 🚀
