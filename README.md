@@ -1,43 +1,94 @@
 # 💫 About Me
 
-BTech student passionate about building scalable and practical software through real-world projects, problem solving, and continuous learning.
+Hi, I'm **Sanjiv Prasad** 👋
 
-Previously worked as a **gym trainer**, which built the kind of discipline that survives both leg day and debugging sessions at 2 AM.
+I'm a **B.Tech Computer Science (AI & ML)** student passionate about building real-world software and continuously improving as a developer.
 
-Currently focused on **Frontend & Backend Development**, working with **HTML, CSS, Tailwind CSS, JavaScript, Python, FastAPI, MongoDB, Git, Docker, and REST APIs** while strengthening problem-solving skills through **Data Structures & Algorithms**.
+What started with learning HTML and Python has evolved into building complete applications, experimenting with AI, and understanding how modern software systems work from frontend to backend.
 
-Building projects, exploring modern development tools, and learning how real systems actually work instead of just surviving tutorial playlists.  
-(Those playlists age faster than milk.)
+Previously, I worked as a **fitness trainer**, where I developed discipline, consistency, and a results-driven mindset—qualities I now bring into software development.
 
-Actively seeking **Software Development / Frontend Internship opportunities** to contribute, gain industry experience, and grow as a developer.
+Currently, I'm focused on:
 
----
+* 🚀 Full-Stack Web Development
+* 🐍 Python & FastAPI
+* ⚛️ React & Modern JavaScript
+* 🗄️ MongoDB & PostgreSQL
+* 🐳 Docker
+* 🔗 REST APIs
+* 🤖 AI-powered applications
+* 📚 Data Structures & Algorithms
 
-## 🌐 Socials
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16?logo=leetcode&logoColor=white)](https://leetcode.com/u/NJNTE0egUh/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasadsanjiv)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/code.sanjiv/)
-[![Quora](https://img.shields.io/badge/Quora-B92B27?logo=quora&logoColor=white)](https://www.quora.com/profile/Sanjiv-Prasad-45)
-
----
-
-# 💻 Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-3776AB?style=for-the-badge&logo=python&logoColor=white)
+I'm actively building projects instead of just following tutorials because I believe the best way to learn is by solving real problems.
 
 ---
 
-<!-- Proudly edited after bullying the old README into retirement. -->
+## 🌟 Featured Projects
+
+### 🤖 Advait
+
+An AI-powered Yoga Assistant capable of intelligent conversations and AI image generation.
+
+### 🛍️ TheWoodWise
+
+A full-stack furniture e-commerce platform with authentication, product management, sessions, and modern backend architecture.
+
+### 📝 Intelli Notes
+
+A responsive platform for organising and accessing academic study resources and semester-wise notes.
+
+### 💼 Client Portfolio Websites
+
+Designed and developed multiple responsive portfolio websites for clients with modern UI and mobile-first design.
+
+---
+
+## 🎯 Current Goals
+
+* Master Backend Development with Python & FastAPI
+* Strengthen Data Structures & Algorithms
+* Learn PostgreSQL and scalable database design
+* Explore Docker, cloud deployment, and system design
+* Build production-ready AI applications
+* Secure a Software Development Internship
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/prasadsanjiv
+* 📸 Instagram: https://www.instagram.com/code.sanjiv/
+* 💻 GitHub: https://github.com/Sanjiv215
+* 🧩 LeetCode: https://leetcode.com/u/NJNTE0egUh/
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+
+Python • JavaScript • HTML5 • CSS3
+
+**Frontend**
+
+React • Vite • Tailwind CSS
+
+**Backend**
+
+FastAPI • REST APIs • Node.js (Basics)
+
+**Databases**
+
+MongoDB • PostgreSQL (Learning)
+
+**Tools**
+
+Git • GitHub • Docker • VS Code • Postman
+
+**Currently Exploring**
+
+AI Applications • LLMs • Backend Architecture • Deployment
+
+---
+
+> *"Consistency beats intensity. Build. Learn. Improve. Repeat."* 🚀
