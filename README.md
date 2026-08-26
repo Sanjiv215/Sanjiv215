@@ -65,5 +65,4 @@ Tools & Practices -  Git • GitHub • Docker • VS Code • Postman • Claud
 
 Currently Exploring AI Applications -  • LLMs • Backend Architecture • System Design
 
-📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sanjiv215&show_icons=true&theme=tokyonight&hide_border=true" alt="Sanjiv's GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjiv215&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjiv215&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
+
