@@ -52,11 +52,10 @@ Designed and developed multiple responsive portfolio websites for clients, focus
 
 ## Connect With Me
 
-* **LinkedIn:** linkedin.com/in/prasadsanjiv
-* **Instagram:** instagram.com/code.sanjiv
-* **GitHub:** github.com/Sanjiv215
-* **LeetCode:** leetcode.com/u/NJNTE0egUh
-
+- **LinkedIn:** [Sanjiv Prasad](https://linkedin.com/in/prasadsanjiv)
+- **Instagram:** [@code.sanjiv](https://instagram.com/code.sanjiv)
+- **GitHub:** [Sanjiv215](https://github.com/Sanjiv215)
+- **LeetCode:** [NJNTE0egUh](https://leetcode.com/u/NJNTE0egUh)
 ##  Tech Stack
 
 **Languages**
