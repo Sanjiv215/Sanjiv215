@@ -6,6 +6,8 @@ My journey started with learning **HTML and Python**, which gradually evolved in
 
 Before transitioning into software development, I worked as a **fitness trainer**, where I developed discipline, consistency, problem-solving skills, and a results-driven mindset. I now bring the same approach to technology: learn, build, improve, repeat.
 
+I’m also exploring cybersecurity and developer tooling, currently building Vigilo, a Python static security scanner.
+
 ### What I’m Currently Focused On
 
 * Full-Stack Web Development
@@ -18,8 +20,16 @@ Before transitioning into software development, I worked as a **fitness trainer*
 * AI Agents
 * AI Infrastructure
 * Data Structures & Algorithms
+* Cybersecurity & Static Analysis
+* Developer Tools & CLI Applications
+* Open Source Development
 
 I believe the best way to learn is by **building real projects and solving real problems**, rather than simply following tutorials. That mindset drives me to continuously experiment, build, and improve.
+
+## Vigilo
+
+A Python static security scanner focused on detecting security vulnerabilities and code correctness issues. Includes CWE-based vulnerability detection, repository scanning, correctness diagnostics, CLI tooling, caching, CI/release automation, and standalone executables.
+PyPI: pip install vigilo
 
 ## Experience
 
@@ -49,6 +59,10 @@ Designed and developed multiple responsive portfolio websites for clients, focus
 * Improve Agile development practices and project management with **Jira**
 * Build and deploy production-ready AI applications
 * Continue gaining real-world software development experience
+* Build and maintain open-source developer tools
+* Develop deeper knowledge of cybersecurity and static analysis
+* Learn software packaging, distribution, and release engineering
+* Build products that can evolve beyond personal projects
 
 ## Connect With Me
 
@@ -74,10 +88,13 @@ MongoDB • PostgreSQL
 n8n
 
 **Deployment**
-Render • Vercel
+Render • Vercel • CI/CD • PyInstaller
+
+**Security / Development
+Static Analysis • CWE • Code Scanning
 
 **Tools & Practices**
-Git • GitHub • Docker • VS Code • Postman • Claude Code • Agile • Jira
+Git • GitHub • Docker • VS Code • Postman • Claude Code • Agile • Jira • Google Antigravity
 
 **Currently Exploring**
 LLMs • AI Applications • Backend Architecture • System Design
