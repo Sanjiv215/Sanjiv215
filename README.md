@@ -76,18 +76,22 @@ I am a **B.Tech Computer Science (AI & ML)** student passionate about engineerin
 
 ### 🚀 Featured Open Source & Projects
 
-| Project | Description | Stack | Status |
+| Project | Description | Stack | Status / Demo |
 |---|---|---|---|
 | **[Vigilo](https://github.com/Sanjiv215/VIGILO-Python-Package)** | Multi-language static security & correctness scanner (CWE-based detection, AST + Tree-Sitter) | Python, Tree-Sitter, PyInstaller | [![PyPI](https://img.shields.io/pypi/v/vigilo.svg?color=blue)](https://pypi.org/project/vigilo/) |
-| **[Advait](https://github.com/Sanjiv215/Advait)** | AI-powered Yoga Assistant with conversational intelligence and AI image generation | Python, OpenAI API, LLMs | Active |
-| **[TheWoodWise](https://github.com/Sanjiv215/TheWoodWise)** | Modern full-stack furniture e-commerce platform with session management & auth | React, Node.js, MongoDB | Active |
+| **[TheWoodWise](https://github.com/Sanjiv215/TheWoodWise)** | Modern full-stack furniture e-commerce platform with session management & OTP auth | React, Node.js, Express, MongoDB | [🌐 Live App](https://the-wood-wise.vercel.app/) |
+| **[Advait](https://github.com/Sanjiv215/Advait)** | AI-powered Yoga Assistant with Gemini 2.0 Flash intelligence and Stable Diffusion image synthesis | Python, Gemini API, Diffusers | Active |
+| **[systemManager](https://github.com/Sanjiv215/systemManager)** | Full-stack operations & ERP suite for manufacturers | React, TypeScript, FastAPI, Docker | Active |
 | **[IIT-Patna Task Manager](https://github.com/Sanjiv215/IIT-PATNA_TASK-MANAGER)** | Enterprise task and workflow management suite built during internship | Python, Full-Stack, DB | Completed |
-| **[PySentra](https://github.com/Sanjiv215/PySentra)** | Python security and static diagnostic tooling | Python, AST | Active |
 
 ---
 
 ### 📊 GitHub Activity & Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjiv215&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sanjiv's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjiv215&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjiv215&theme=radical&hide_border=true" alt="GitHub Streak" width="96%" />
