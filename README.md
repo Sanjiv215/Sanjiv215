@@ -86,7 +86,7 @@ I am a **B.Tech Computer Science (AI & ML)** student passionate about engineerin
 
 ---
 
-### 📊 GitHub Activity & Statistics
+###  GitHub Activity & Statistics
 
 
 
